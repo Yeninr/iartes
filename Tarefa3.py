@@ -22,7 +22,7 @@ class Veiculo:
 class Maritimo(Veiculo):
     #Atributos 
     def __init__(self, timon, ancla, porte):
-        self.__timon = timoun
+        self.__timon = timon
         self.__ancla = ancla
         self.__porte = porte
 
